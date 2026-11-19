@@ -259,7 +259,3 @@ When exploring child nodes:
 Branches satisfying $\beta \le \alpha$ are skipped entirely because a rational opponent would never allow the game state to enter that subtree.
 
 ---
-
-## 📜 License
-
-This project is open-source and released under the [MIT License](LICENSE). Free for academic, personal, and educational use.
